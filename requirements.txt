@@ -1,0 +1,10 @@
+streamlit
+presidio-analyzer
+presidio-anonymizer
+spacy
+torch
+transformers==4.44.2
+sentence-transformers==2.7.0
+faiss-cpu
+huggingface_hub
+numpy<2
